@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Clima
 //
-//  Created by Colleen Callahan on 3/26/22.
+//  Created by Michael Callahan on 3/26/22.
 //
 
 import UIKit

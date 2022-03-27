@@ -108,9 +108,9 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="cityLabel" destination="CWP-r8-Jsy" id="8cQ-3l-ufV"/>
-                        <outlet property="conditionImageView" destination="mYn-vV-MBC" id="gpD-FU-YB0"/>
-                        <outlet property="temperatureLabel" destination="w9o-tW-03D" id="mF4-vV-JxK"/>
+                        <outlet property="cityLabel" destination="CWP-r8-Jsy" id="lAQ-L6-0JG"/>
+                        <outlet property="conditionImageView" destination="mYn-vV-MBC" id="oa0-zC-OAe"/>
+                        <outlet property="temperatureLabel" destination="w9o-tW-03D" id="ETx-ng-acr"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
